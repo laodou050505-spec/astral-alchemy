@@ -32,3 +32,9 @@ sysinfo.txt
 # Local build logs and rollback snapshots
 *.log
 _RollbackSafety/
+
+# 本地临时文件与过程截图，不入库
+UserSettings/
+mono_crash.*
+Evidence/
+VisualQA/
